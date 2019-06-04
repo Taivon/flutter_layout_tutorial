@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Runner/AppDelegate.m \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Runner/AppDelegate.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/Taivon/dev/flutter_apps/flutter_layout_tutorial/ios/Runner/GeneratedPluginRegistrant.h
